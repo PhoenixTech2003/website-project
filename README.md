@@ -5,6 +5,6 @@ Welcome to the **website project** where we learn how to use git and build a bas
 1. clone the repository first
 2. run npm install
 3. launch the index.html file to view the website
-##Some things to note before you install
+## Some things to note before you install
 * install node version 19
 * install python
